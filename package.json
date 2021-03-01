@@ -1,0 +1,10 @@
+{
+    "name": "VisualCodeTest",
+    "version": "1.0.0",
+    "description": "testing IDE",
+    "main": "main.js",
+    "dependencies": {
+        "http": "*",
+        "express": "4.17.1"
+    }
+}
